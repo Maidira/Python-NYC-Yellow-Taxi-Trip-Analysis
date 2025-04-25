@@ -4,21 +4,14 @@ This project analyzes the New York City Yellow Taxi Trip Dataset to uncover insi
 
 ## Main Columns:
 
-    tpep_pickup_datetime, tpep_dropoff_datetime: Trip start and end timestamps
-
-    passenger_count: Number of passengers
-
-    trip_distance: Distance traveled (miles)
-
-    fare_amount: Fare paid for the trip
-
-    payment_type: Method of payment (e.g., cash, card)
-
-    pickup_longitude, pickup_latitude: Pickup location
-
-    dropoff_longitude, dropoff_latitude: Dropoff location
-
-    tip_amount, tolls_amount, total_amount: Additional financial details
+tpep_pickup_datetime, tpep_dropoff_datetime: Trip start and end timestamps
+passenger_count: Number of passengers
+trip_distance: Distance traveled (miles)
+fare_amount: Fare paid for the trip
+payment_type: Method of payment (e.g., cash, card)
+pickup_longitude, pickup_latitude: Pickup location
+dropoff_longitude, dropoff_latitude: Dropoff location
+tip_amount, tolls_amount, total_amount: Additional financial details
 
 ## Libraries Used
 
